@@ -34,9 +34,7 @@ DevAssist es un bot de Discord diseñado para ayudarte con tus desafíos de prog
 
 ## Licencia
 
-Este proyecto está bajo la siguiente licencia: 
-
-
+Este proyecto está bajo la siguiente licencia: https://github.com/tavdev06/DevAssist/blob/main/LICENSE
 
 ---
 
